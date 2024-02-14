@@ -1,0 +1,5 @@
+{
+  "editor.codeLensFontFamily": "Poppins",
+  "typescript.validate.enable": true,
+  "editor.hover.enabled": true
+}
