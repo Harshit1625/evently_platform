@@ -1,7 +1,5 @@
-// @ts-check
-
-import Header from "@/components/shared/Header.tsx";
-import Footer from "@/components/shared/Footer.tsx";
+import Header from "@/components/shared/Header";
+import Footer from "@/components/shared/Footer";
 
 export default function RootLayout({
   children,
